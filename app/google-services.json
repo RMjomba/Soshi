@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "112771788654",
+    "project_id": "soshi-91a7a",
+    "storage_bucket": "soshi-91a7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112771788654:android:efda29df20567e185d5b7f",
+        "android_client_info": {
+          "package_name": "com.reginaldateya.soshi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112771788654-01j3rpbhstgdnl18v6dvk6fdc9pmbano.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reginaldateya.soshi",
+            "certificate_hash": "c61f6dfaf7f11fc648ef09ae0cffaa0ac70dea09"
+          }
+        },
+        {
+          "client_id": "112771788654-60ide47jnm4bkbnh23hutgvu88g6f8gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxF9m7QRF_6KtLVhN_5xeTeC9jYjqpzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112771788654-60ide47jnm4bkbnh23hutgvu88g6f8gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
